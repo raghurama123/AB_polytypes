@@ -1,7 +1,7 @@
 # AB Polytypes 
 
 <a>
-<center><img src="https://github.com/raghurama123/AB_polytypes/blob/main/4H.jpeg"  height="350"></center>
+<center><img src="https://github.com/raghurama123/AB_polytypes/blob/main/4H.jpeg"  height="250"></center>
 </a>
 
 The purpose of this repository is to collect codes and data used in our paper ["Bandgaps of long-period polytypes of IV, IV-IV, and III-V semiconductors estimated with an Ising-type additivity model"](https://doi.org/10.1063/5.0166149).  
