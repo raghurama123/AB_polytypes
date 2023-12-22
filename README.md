@@ -5,6 +5,7 @@ The purpose of this repository is to collect codes and data used in our paper ["
 
 # Codes
 - The code [hk2AB.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/hk2AB.ipynb) converts `hk` sequences such as `hh, kkk, khkh` to the corresponding `AB` sequences `AB, ABC, ABAC`.
+- The code [AB2haegg.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/AB2Haegg.ipynb) converts `AB` sequences such as `AB, ABC, ABAC` to the corresponding Haegg notation `+-, +++, +--+`.
 
 
 
