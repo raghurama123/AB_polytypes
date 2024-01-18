@@ -13,7 +13,7 @@ The purpose of this repository is to collect codes and data used in our paper ["
 - The code [AB2haegg.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/AB2Haegg.ipynb) converts `AB` sequences such as `AB, ABC, ABAC` to the corresponding Haegg notation `+-, +++, +--+`.
 
 # Dataset
-FHI-aims input/output files 15 polytypes of 15 compositions are collected at [10.17172/NOMAD/2024.01.18-1](10.17172/NOMAD/2024.01.18-1)
+FHI-aims input/output files 15 polytypes of 15 compositions are collected at [https://doi.org/10.17172/NOMAD/2024.01.18-1](https://doi.org/10.17172/NOMAD/2024.01.18-1)
 - PBE lattice optimization
 - PBE, SCAN, HSE06 electronic band structures
 - For SiC, additionally, phonon band structures at the PBE level are provided for the long polytypes 9R, 12R, 15R1, and 15R2
