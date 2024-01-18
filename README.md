@@ -12,7 +12,7 @@ The purpose of this repository is to collect codes and data used in our paper ["
 - The code [hk2AB.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/hk2AB.ipynb) converts `hk` sequences such as `hh, kkk, khkh` to the corresponding `AB` sequences `AB, ABC, ABAC`.
 - The code [AB2haegg.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/AB2Haegg.ipynb) converts `AB` sequences such as `AB, ABC, ABAC` to the corresponding Haegg notation `+-, +++, +--+`.
 
-# Dataset
+# AB Polytypes dataset
 FHI-aims input/output files 15 polytypes of 15 compositions are collected at [https://doi.org/10.17172/NOMAD/2024.01.18-1](https://doi.org/10.17172/NOMAD/2024.01.18-1)
 - PBE lattice optimization
 - PBE, SCAN, HSE06 electronic band structures
