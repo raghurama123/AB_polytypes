@@ -9,8 +9,9 @@ The purpose of this repository is to collect codes and data used in our paper ["
 :construction: Raghu: I am still adding the content here, so the page will be under construction. Feel free to write me if you need any specific information. :construction: 
 
 # Codes
-- The code [hk2AB.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/hk2AB.ipynb) converts `hk` sequences such as `hh, kkk, khkh` to the corresponding `AB` sequences `AB, ABC, ABAC`.
-- The code [AB2haegg.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/AB2Haegg.ipynb) converts `AB` sequences such as `AB, ABC, ABAC` to the corresponding Haegg notation `+-, +++, +--+`.
+- [hk2AB.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/hk2AB.ipynb) converts `hk` sequences such as `hh, kkk, khkh` to the corresponding `AB` sequences `AB, ABC, ABAC`.
+- [AB2haegg.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/AB2Haegg.ipynb) converts `AB` sequences such as `AB, ABC, ABAC` to the corresponding Haegg notation `+-, +++, +--+`.
+- [MakeGeoms.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/MakeGeoms.ipynb) takes as inputs the stacking sequence (such as 'AB') and the elements ('Si' and 'C' for A and B) creates geometry.in for symmetry constrained geometry optimization using FHI-aims. 
 
 # AB Polytypes dataset
 FHI-aims input/output files 15 polytypes of 15 compositions are collected at [https://doi.org/10.17172/NOMAD/2024.01.18-1](https://doi.org/10.17172/NOMAD/2024.01.18-1)
