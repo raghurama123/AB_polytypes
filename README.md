@@ -14,6 +14,7 @@ The purpose of this repository is to collect codes and data used in our paper ["
 - [MakeGeoms.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/MakeGeoms.ipynb) takes as inputs the stacking sequence (such as 'AB') and the elements ('Si' and 'C' for A and B) creates geometry.in for symmetry constrained geometry optimization using FHI-aims. 
 - [DrawPolytypes.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/DrawPolytypes.ipynb) draws the structures of stacking arrangement of polytypes as viewed from the [10-10] plane of the hexagonal unit cell as shown in Fig. 1 of our paper. 
 - [StoichiometricMatrix.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/StoichiometricMatrix.ipynb) creates the stoichiometric matrix used for ANNNI modeling. Each row corresponds to the terms in the Hamiltonian of a polytype. Columns correspond the the coefficient of J0, -J1, -J2, -J3, and -K of equation 4 of our paper. These coefficients (expect J0, which is 1 for all polytypes) are collected in Table II of our paper.
+- [Fit_ANNNI.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/Fit_ANNNI.ipynb) fits Model-4 to HSE03 band gaps and prints the model parameters listed in Table V of our paper.
 
 
 # AB Polytypes dataset
