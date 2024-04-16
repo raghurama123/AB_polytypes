@@ -4,7 +4,9 @@
 <center><img src="https://github.com/raghurama123/AB_polytypes/blob/main/4H.jpeg"  height="250"></center>
 </a>
 
-The purpose of this repository is to collect codes and data used in our paper ["Bandgaps of long-period polytypes of IV, IV-IV, and III-V semiconductors estimated with an Ising-type additivity model"](https://doi.org/10.1063/5.0166149).  Feel free to write to me (ramakrishnan@tifrh.res.in) if you need further information.
+The purpose of this repository is to collect codes and data used in our paper ["Bandgaps of long-period polytypes of IV, IV-IV, and III-V semiconductors estimated with an Ising-type additivity model"](https://doi.org/10.1063/5.0166149).  
+
+Feel free to write to me (ramakrishnan@tifrh.res.in) for further information.
 
 # Codes
 - [hk2AB.ipynb](https://github.com/raghurama123/AB_polytypes/blob/main/ipynb/hk2AB.ipynb) converts `hk` sequences such as `hh, kkk, khkh` to the corresponding `AB` sequences `AB, ABC, ABAC`.
