@@ -32,7 +32,7 @@ Journal of Chemical Physics, 159 (2023) 124702 (1-16).
 See also the [Supplementary materials (zip file)](https://pubs.aip.org/jcp/article-supplement/2912689/zip/124702_1_5.0166149.suppl_material/)
 
 ERRATA:
-- page 13 (Section IV.A) $d = 3/(4*q)$ should be corrected as $d = 3/(4p)$
+- page 13 (Section IV.A) $d=3/(4q)$ should be corrected as $d = 3/(4p)$
 
 ```
 @article{ramakrishnan2023bandgaps,
